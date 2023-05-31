@@ -1,0 +1,11 @@
+story:
+
+As a user, I want to have a seamless and efficient registration process so that I can quickly create an account and access the platform's features.
+
+bug:
+
+As a user, when accessing the login page, the UI elements are not properly aligned and it is overlapping resulting in a messy layout
+
+task:
+
+As a user, I want to have a password strength meter on the registration page to ensure I can choose a strong password.
